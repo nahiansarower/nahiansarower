@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **nahiansarower1996@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** ERP
+- 🔭 **I’m currently working on:** Quazi Abedin Tex LTD
 - 🌱 **I’m currently learning:** .Net Core Framework
 - 👯 **I’m looking to collaborate on:** ASP .Net/ .Net Core Framework Based Project 
 - 💬 **Ask me about:** Collaboration, Tech Support
